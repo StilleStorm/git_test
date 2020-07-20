@@ -1,0 +1,1 @@
+This is Storms first project! (Odin project tutorial)
